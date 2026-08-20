@@ -1,4 +1,4 @@
-# AI4SE PaperTracker
+## AI4SE PaperTracker
 
 自动跟踪「AI 赋能软件工程（AI4SE）」论文的网站。每日从 arXiv 拉取最新论文，判定其在 CCF-A 软件工程会议（ICSE / FSE / ASE / ISSTA）的发表情况，识别 AI4SE 论文并按研究主题分类、生成中文摘要，最终以 Web 页面展示与可视化。
 
